@@ -1,0 +1,5 @@
+{
+  "name": "Hamsika Travels",
+  "description": "A comprehensive flight booking application featuring real-time flight search via Kiwi API, secure booking flows, and an administrative dashboard for managing reservations.",
+  "requestFramePermissions": []
+}
